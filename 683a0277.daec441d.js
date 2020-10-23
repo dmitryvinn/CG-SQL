@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{74:function(o){o.exports=JSON.parse('{"facebook":{"allTagsPath":"/CG-SQL/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/CG-SQL/blog/tags/facebook"},"welcome":{"allTagsPath":"/CG-SQL/blog/tags","slug":"welcome","name":"welcome","count":1,"permalink":"/CG-SQL/blog/tags/welcome"}}')}}]);
