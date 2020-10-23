@@ -12,7 +12,7 @@ const path = require('path');
 module.exports = {
   title: 'CG/SQL',
   tagline: 'Code Generator for SQLite',
-  url: 'https://facebookincubator.github.io',
+  url: 'https://dmitryvinn.github.io',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
