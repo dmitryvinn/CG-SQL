@@ -16,7 +16,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebookincubator',
+  organizationName: 'dmitryvinn',
   projectName: 'cg-sql',
   themeConfig: {
     navbar: {
