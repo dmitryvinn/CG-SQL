@@ -17,7 +17,7 @@ module.exports = {
   onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'dmitryvinn',
-  projectName: 'cg-sql',
+  projectName: 'CG-SQL',
   themeConfig: {
     navbar: {
       title: 'CQ/SQL',
