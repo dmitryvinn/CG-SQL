@@ -13,7 +13,7 @@ module.exports = {
   title: 'CG/SQL',
   tagline: 'Code Generator for SQLite',
   url: 'https://dmitryvinn.github.io',
-  baseUrl: '/',
+  baseUrl: '/CG-SQL/',
   onBrokenLinks: 'ignore',
   favicon: 'img/favicon.ico',
   organizationName: 'dmitryvinn',
